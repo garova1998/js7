@@ -1,0 +1,23 @@
+/* .glavniiCont{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+    
+    border: 1px solid #000;
+}
+
+.stylecont{
+    display: flex;
+    justify-content:space-between;
+    width: 50%;
+    height: 100%;
+    border: 1px solid #000;
+
+}
+
+.conteiner1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+} */
